@@ -1,7 +1,7 @@
 # WelcomeUI
 This was upload by QuiverlyRivalry and was fixed by misael38 (me)
 
-# Message
+# Message Setup
 you can set the message in config.yml
 
 # Api Version
