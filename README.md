@@ -1,4 +1,16 @@
-# onJoin
-Seems basic.. but first time I am attempting a config, maybe you might see this on ShopUI who knows?
+# WelcomeUI
+This was upload by QuiverlyRivalry and was fixed by misael38 (me)
 
-Help with tasks @ArmTheDev, if it wasnt for him, Id be using sleep! :P
+# Message
+you can set the message in config.yml
+
+# Api Version
+This plugin only work at API 3.5.1
+
+Contact:
+WhatsApp: +628-1315465892
+Line    : misael38
+ 
+ Thank For Your Participation
+
+
