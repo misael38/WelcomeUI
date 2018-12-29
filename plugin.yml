@@ -1,5 +1,5 @@
 name: onJoin
-version: 1.0.0
-api: [3.5.1]
+version: 1.0.1
+api: [3.5.1, 3.5.2]
 main: onJoin\Main
 author: QuiverlyRivalry Fixed by misael38
