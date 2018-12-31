@@ -1,6 +1,6 @@
 ---
-ServerName: Test
-Content: Test
-Button1: Test
-Button2: Test
+ServerName: §6Server§5Name
+Content: §f§lWelcome to §6Server§5Name \n§fYou can edit the message at config.yml
+Button1: Play
+Button2: Play
 ...
